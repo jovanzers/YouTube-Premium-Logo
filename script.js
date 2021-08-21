@@ -4,7 +4,7 @@
 // @description  Change YouTube logo to premium
 // @author       barraIhsan
 // @match        https://*.youtube.com/
-// @icon         https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg
+// @icon         http://youtube.com/favicon.ico
 // @run-at       document-end
 // @license      MIT
 // ==/UserScript==
