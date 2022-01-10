@@ -2,7 +2,7 @@
 // @name         Youtube premium text
 // @version      1.0
 // @description  Change YouTube logo to premium
-// @author       barraIhsan
+// @author       AxoCode
 // @match        https://*.youtube.com/
 // @icon         http://youtube.com/favicon.ico
 // @run-at       document-end
