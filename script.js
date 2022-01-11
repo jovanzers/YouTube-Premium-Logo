@@ -7,6 +7,7 @@
 // @icon         http://youtube.com/favicon.ico
 // @run-at       document-end
 // @license      MIT
+// @downloadURL  https://gist.github.com/AxoCode/bc901bc9c3604749d48361d23a094d29/raw/script.js
 // ==/UserScript==
 
 (function() {
