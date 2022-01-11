@@ -3,7 +3,7 @@
 // @version      1.0
 // @description  Change YouTube logo to premium
 // @author       AxoCode
-// @match        https://*.youtube.com/
+// @match        https://www.youtube.com/
 // @icon         https://www.youtube.com/s/desktop/0bcbb234/img/favicon_144x144.png
 // @run-at       document-end
 // @license      MIT
