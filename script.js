@@ -4,7 +4,7 @@
 // @description  Change YouTube logo to premium
 // @author       AxoCode
 // @match        https://*.youtube.com/
-// @icon         http://youtube.com/favicon.ico
+// @icon         https://www.youtube.com/s/desktop/0bcbb234/img/favicon_144x144.png
 // @run-at       document-end
 // @license      MIT
 // @downloadURL  https://gist.github.com/AxoCode/bc901bc9c3604749d48361d23a094d29/raw/script.js
