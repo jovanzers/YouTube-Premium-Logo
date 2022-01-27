@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Youtube premium text
-// @version      1.0
+// @version      1.0.1
 // @description  Change YouTube logo to premium
 // @author       AxoCode
 // @match        https://www.youtube.com/
