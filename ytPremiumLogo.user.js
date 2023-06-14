@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         Youtube premium text
+// @name         YouTube Premium Logo
 // @version      1.0.2
-// @description  Change YouTube logo to premium
-// @author       AxoCode
+// @description  Changes the YouTube logo to a premium version
+// @author       barraIhsan
 // @match        https://www.youtube.com/*
-// @icon         https://www.youtube.com/s/desktop/0bcbb234/img/favicon_144x144.png
+// @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @run-at       document-end
-// @license      MIT
+// @updateURL    https://gist.github.com/barraIhsan/bc901bc9c3604749d48361d23a094d29/raw/ytPremiumLogo.user.js
+// @downloadURL  https://gist.github.com/barraIhsan/bc901bc9c3604749d48361d23a094d29/raw/ytPremiumLogo.user.js
 // ==/UserScript==
 
 (function() {
