@@ -3,6 +3,7 @@
 ## Description
 
 The YouTube Premium Logo userscript replaces the YouTube logo with the YouTube Premium for a customized visual experience.
+idk why you need this, but using an adblocker + this script, will give the appearance that you have YouTube Premium.
 
 ### Before:
 
