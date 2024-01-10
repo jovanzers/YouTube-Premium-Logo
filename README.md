@@ -6,11 +6,11 @@ The YouTube Premium Logo userscript replaces the YouTube logo with the YouTube P
 
 ### Before:
 
-![Before](https://user-images.githubusercontent.com/57800056/245666143-0d8d5230-d40d-4692-9dee-1a05cbf58828.png)
+![Before](https://user-images.githubusercontent.com/57800056/245666234-e0c3afd8-9ca1-44fd-8595-47ec0f6c4cfc.png)
 
 ### After:
 
-![After](https://user-images.githubusercontent.com/57800056/245666234-e0c3afd8-9ca1-44fd-8595-47ec0f6c4cfc.png)
+![After](https://user-images.githubusercontent.com/57800056/245666143-0d8d5230-d40d-4692-9dee-1a05cbf58828.png)
 
 ## Installation
 
