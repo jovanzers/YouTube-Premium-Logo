@@ -15,7 +15,7 @@ idk why you need this, but using an adblocker + this script, will give the appea
 
 ## Installation
 
-To install the script, click the following link: [Install the script](https://gist.github.com/barraIhsan/bc901bc9c3604749d48361d23a094d29/raw/ytPremiumLogo.user.js)
+To install the script, click the following link: [Install the script](https://github.com/jovanzers/YouTube-Premium-Logo/raw/master/ytPremiumLogo.user.js)
 
 Please note that you will need a user script manager to run the user script. Consider using one of the following:
 - Chrome: [Tampermonkey (RECOMMENDED)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [ViolentMonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
